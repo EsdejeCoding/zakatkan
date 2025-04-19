@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/zakatkan/static/css/main.23722cf9.css",
-    "main.js": "/zakatkan/static/js/main.53ab81e7.js",
+    "main.js": "/zakatkan/static/js/main.d66b773c.js",
     "static/js/453.c67b7997.chunk.js": "/zakatkan/static/js/453.c67b7997.chunk.js",
     "static/media/intro-img.webp": "/zakatkan/static/media/intro-img.8991f4920c25b7e8e816.webp",
     "index.html": "/zakatkan/index.html",
     "main.23722cf9.css.map": "/zakatkan/static/css/main.23722cf9.css.map",
-    "main.53ab81e7.js.map": "/zakatkan/static/js/main.53ab81e7.js.map",
+    "main.d66b773c.js.map": "/zakatkan/static/js/main.d66b773c.js.map",
     "453.c67b7997.chunk.js.map": "/zakatkan/static/js/453.c67b7997.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.23722cf9.css",
-    "static/js/main.53ab81e7.js"
+    "static/js/main.d66b773c.js"
   ]
 }
